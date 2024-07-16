@@ -1,0 +1,17 @@
+{
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "eslint.nodePath": ".yarn/sdks",
+  "typescript.tsdk": ".yarn/sdks/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "workbench.colorTheme": "Mayukai Semantic Mirage",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#b224ef",
+    "titleBar.activeForeground": "#000000",
+    "titleBar.inactiveBackground": "#b224ef",
+    "titleBar.inactiveForeground": "#BBBBBB",
+    "activityBar.background": "#181818"
+  }
+}
