@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn_dody_scheduler",
-    "slug": "rn_dody_scheduler",
+    "name": "rn_foco",
+    "slug": "rn_foco",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
